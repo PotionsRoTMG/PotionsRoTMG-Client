@@ -1,29 +1,4 @@
-<style type="text/css">body,input
-    {
-    font-family:"Trebuchet ms",arial;font-size:0.9em;
-    color:#333
-    }
-.spoiler
-    {
-    border:1px solid #ddd;
-    padding:3px;
-    }
-.spoiler .inner
-    {
-    border:1px solid #eee;
-    padding:3px;margin:3px;
-    }
-</style>
-<script type="text/javascript">
-function showSpoiler(obj)
-    {
-    var inner = obj.parentNode.getElementsByTagName("div")[0];
-    if (inner.style.display == "none")
-        inner.style.display = "";
-    else
-        inner.style.display = "none";
-    }
-    </script>
+
 <p style="text-align: center;"><a href="https://www.potionsrotmg.com/index.php?route=product/product&amp;product_id=199" style="text-align: center;" target="_self"><img alt="" src="http://i.imgur.com/106Mg2G.png" style="height: 67px; width: 500px;" /></a></p>
 
 <p style="text-align: center;">&nbsp;</p>
